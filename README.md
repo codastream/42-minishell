@@ -1,6 +1,6 @@
 # MiniShell
 
-_This is a project from 42 common core_
+_This is a project from 42 common core developed with [Djo-msv](https://github.com/Djo-msv)_ 
 
 ## Developed skills
 
